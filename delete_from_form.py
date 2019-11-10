@@ -9,7 +9,7 @@ def main():
         print("Only one argument accepted.")
         sys.exit(1)
 
-    url = "https://stage.housing.wwu.edu/resnet/myrestek/delete/"
+    url = ""
     file = sys.argv[1]
 
     cookie = {
